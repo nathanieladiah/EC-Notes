@@ -1,26 +1,44 @@
 Sunday 22nd March 2020
+(Sunday 30th August 2020 review)
 [[DNW]]
+
+#ECCG
 
 Hebrews 12:26-28
 > 26 At that time his voice shook the earth, but now he has promised, “Once more I will shake not only the earth but also the heavens." 27 The words “once more” indicate the removing of what can be shaken—that is, created things—so that what cannot be shaken may remain.
 >
 > 28 Therefore, since we are receiving a kingdom that cannot be shaken, let us be thankful, and so worship God acceptably with reverence and awe,
 
+* The removal of created things
+* Thankfulness, in the midst of the shaking of the carnal world
+
 The strength of God: plunged the entire world into uncertainty and exposed the core weakness of the systems of the earth.
+
+* All of this in one movement of the hand of the Lord in blinding speed.
+* Our eyes are beholding the strength of the Lord.
 
 Jeremiah 16:9-11
 > 9 For this is what the Lord Almighty, the God of Israel, says: Before your eyes and in your days I will bring an end to the sounds of joy and gladness and to the voices of bride and bridegroom in this place.
 >
 > 10 “When you tell these people all this and they ask you, ‘Why has the Lord decreed such a great disaster against us? What wrong have we done? What sin have we committed against the Lord our God?’ 11 then say to them, ‘It is because your ancestors forsook me,’ declares the Lord, ‘and followed other gods and served and worshiped them. They forsook me and did not keep my law.
 
+* Now more than ever, our hearts are filled with a healthy fear of the Lord that keeps our feet to the straightness of the Path!
+* We seek to offer to him what He wants and not what our preferences dictate.
+
 _Acts 9:31_
 > Then the church throughout Judea, Galilee and Samaria enjoyed a time of peace and was strengthened. Living in the fear of the Lord and encouraged by the Holy Spirit, it increased in numbers.
+
+* We want growth, not in numbers, but in faith
 
 _Proverbs 19:23_
 > The fear of the Lord leads to life;  
     then one rests content, untouched by trouble.
 
+*  We can see the calamity, but we are not afflicted by it.
+
 We will not be afflicted by the calamity. It will not break our faith or destroy us. We thank God for the journey; it is the power of the journey...
+
+We rejoice in the love of God who has brought us on a journey.
 
 _Exodus 29:46_
 > They will know that I am the Lord their God, who brought them out of Egypt so that I might dwell among them. I am the Lord their God.
@@ -31,6 +49,8 @@ _Leviticus 25:55_
 > “‘If one of your fellow Israelites becomes poor and sells some of their property, their nearest relative is to come and redeem what they have sold.
 
 God is looking for those who will serve him, carrying out his purposes. This is why we were brought on this journey.
+
+We are grateful for the healing power of relationships
 
 _Leviticus 26:13_
 > I am the Lord your God, who brought you out of Egypt so that you would no longer be slaves to the Egyptians; I broke the bars of your yoke and enabled you to walk with heads held high.
@@ -44,6 +64,7 @@ _1 John 1:7_
 > But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all sin.
 
 God is our reference point.
+We celebrate the power of the word of God in us and the power of the doctrine
 
 _Psalms 119:105_
 > Your word is a lamp for my feet,  

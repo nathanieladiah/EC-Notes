@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5ffc0b7e8cd32f8c",
+        "id": "4d2b64af90583289",
         "type": "tabs",
         "children": [
           {
-            "id": "35f51a56dfaf3319",
+            "id": "c4876936663622a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A season of renewal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A season of renewal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A season of renewal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "A season of renewal.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,21 +138,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35f51a56dfaf3319",
+  "active": "c4876936663622a0",
   "lastOpenFiles": [
-    "07-07-24.md",
-    "A season of renewal.md",
-    "Standing Triumphant in Changing Times.md",
-    "Avoiding Deception As We Approach the Finish.md",
-    "Reviewing the Prophetic Faith.md",
+    "Responding to the Words of God.md",
+    "Movement to the Finish.md",
+    "Living in an Existential Time - Being Rooted in Christ.md",
+    "Issues of Kingdom Stability.md",
+    "16-06-24.md",
+    "Have a Mature Response to the Time of Judgment!.md",
+    "26-06-21.md",
+    "Graham King.md",
+    "Manhood at the Core in a New Season.md",
+    "Intense Maturity and Growth as a Necessity for the Walk Forward.md",
     "Walking to the End of Time.md",
-    "The Highway to Zion.md",
+    "Faith in the Season of the Finish.md",
+    "Interface with the Word of God.md",
+    "Standing Triumphant in Changing Times.md",
+    "Activating the Oversight Coordinators and Development Facilitators.md",
+    "Ezekiel 47 and the Congress  Sequence.md",
     "Lessons for the Finish from the Start.md",
-    "Living in the Crisis.md",
-    "Roundtable Discussion.md",
-    "The Principle of Increase.md",
-    "Practically Wise.md",
-    "14-07-24.md",
+    "Principles for Transformation.md",
+    "State of Actual Change and Structural Transformation.md",
+    "Sunday 16th May 2021.md",
+    "Sunday 16th August 2020.md",
+    "Faith for the Future.md",
+    "Global Civilization.md",
+    "Sunday 8th November 2020.md",
+    "The Architecture.md",
+    "A season of renewal.md",
     "14-07-24.md~"
   ]
 }
