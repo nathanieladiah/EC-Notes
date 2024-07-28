@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4d2b64af90583289",
+        "id": "d5c5dd0748725e48",
         "type": "tabs",
         "children": [
           {
-            "id": "c4876936663622a0",
+            "id": "a8a874b8acedc5bb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Principles from James Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "79bb598b503bbb39",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Principles from James Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Principles from James Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Principles from James Chapter 1.md"
+              }
             }
           }
         ]
@@ -138,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4876936663622a0",
+  "active": "a8a874b8acedc5bb",
   "lastOpenFiles": [
-    "Responding to the Words of God.md",
-    "Movement to the Finish.md",
-    "Living in an Existential Time - Being Rooted in Christ.md",
-    "Issues of Kingdom Stability.md",
-    "16-06-24.md",
-    "Have a Mature Response to the Time of Judgment!.md",
-    "26-06-21.md",
-    "Graham King.md",
-    "Manhood at the Core in a New Season.md",
-    "Intense Maturity and Growth as a Necessity for the Walk Forward.md",
-    "Walking to the End of Time.md",
-    "Faith in the Season of the Finish.md",
-    "Interface with the Word of God.md",
-    "Standing Triumphant in Changing Times.md",
-    "Activating the Oversight Coordinators and Development Facilitators.md",
-    "Ezekiel 47 and the Congress  Sequence.md",
-    "Lessons for the Finish from the Start.md",
-    "Principles for Transformation.md",
-    "State of Actual Change and Structural Transformation.md",
+    "On Walls.md",
+    "Principles from James Chapter 1.md",
+    "A season of renewal.md",
+    "The Architecture.md",
+    "Sunday 8th November 2020.md",
     "Sunday 16th May 2021.md",
     "Sunday 16th August 2020.md",
-    "Faith for the Future.md",
+    "State of Actual Change and Structural Transformation.md",
+    "Responding to the Words of God.md",
+    "Principles for Transformation.md",
+    "Movement to the Finish.md",
+    "Manhood at the Core in a New Season.md",
+    "Living in an Existential Time - Being Rooted in Christ.md",
+    "Issues of Kingdom Stability.md",
+    "Interface with the Word of God.md",
+    "Intense Maturity and Growth as a Necessity for the Walk Forward.md",
+    "Have a Mature Response to the Time of Judgment!.md",
+    "Graham King.md",
     "Global Civilization.md",
-    "Sunday 8th November 2020.md",
-    "The Architecture.md",
-    "A season of renewal.md",
+    "Faith in the Season of the Finish.md",
+    "Faith for the Future.md",
+    "Ezekiel 47 and the Congress  Sequence.md",
+    "Activating the Oversight Coordinators and Development Facilitators.md",
+    "26-06-21.md",
+    "16-06-24.md",
+    "07-07-24.md",
     "14-07-24.md~"
   ]
 }
