@@ -1,6 +1,6 @@
 {
   "vimMode": true,
   "autoPairMarkdown": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showLineNumber": true
 }

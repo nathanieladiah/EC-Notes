@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d2b64af90583289",
+        "id": "d8e7e6344402816e",
         "type": "tabs",
         "children": [
           {
-            "id": "c4876936663622a0",
+            "id": "583da1321c2f45a4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -34,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
-              }
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Hebron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -88,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -99,7 +114,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -110,7 +127,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -130,6 +151,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -138,34 +160,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4876936663622a0",
+  "active": "583da1321c2f45a4",
   "lastOpenFiles": [
-    "Responding to the Words of God.md",
-    "Movement to the Finish.md",
-    "Living in an Existential Time - Being Rooted in Christ.md",
-    "Issues of Kingdom Stability.md",
-    "16-06-24.md",
-    "Have a Mature Response to the Time of Judgment!.md",
-    "26-06-21.md",
-    "Graham King.md",
-    "Manhood at the Core in a New Season.md",
+    "Dynamics of Finishing.md",
+    "Untitled.md",
+    "Mastering Followership.md",
+    "Reviewing Elements of the GCL Gathering.md",
     "Intense Maturity and Growth as a Necessity for the Walk Forward.md",
-    "Walking to the End of Time.md",
-    "Faith in the Season of the Finish.md",
-    "Interface with the Word of God.md",
-    "Standing Triumphant in Changing Times.md",
-    "Activating the Oversight Coordinators and Development Facilitators.md",
-    "Ezekiel 47 and the Congress  Sequence.md",
-    "Lessons for the Finish from the Start.md",
-    "Principles for Transformation.md",
-    "State of Actual Change and Structural Transformation.md",
-    "Sunday 16th May 2021.md",
-    "Sunday 16th August 2020.md",
-    "Faith for the Future.md",
-    "Global Civilization.md",
-    "Sunday 8th November 2020.md",
-    "The Architecture.md",
-    "A season of renewal.md",
+    "Our Forceful Advance to the Finish.md",
+    "Hope.md",
+    "The Marks of a Mature Believer.md",
+    "Connecting the Wall.md",
+    "Handover Notes.md",
+    "Our Advance to the Finish.md",
+    "Reviewing the Prophetic Faith.md",
+    "Faith in the Character of God Part 2.md",
+    "Separation and Judgment in a Season of Representation.md",
+    "Faith in the Character of God.md",
+    "Faith - The Ultimate Tool from The Upper Realm.md",
+    "Structural Preparation 2.md",
+    "Structural Preparation.md",
+    "Issues of Being Willing.md",
+    "Perspectives on the Value of Trials.md",
+    "Remaining in Christ to the Finish.md",
+    "Separation and Judgment Part 2.md",
+    "What it Takes to Build a Fortress.md",
+    "Our Confidence in God.md",
+    "Representation - Reviewing Psalm 89.md",
+    "Tracking the Journey.md",
     "14-07-24.md~"
   ]
 }
