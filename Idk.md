@@ -35,7 +35,10 @@ He was commended as one who pleased God.
 
 ---
 
-## 6 Philadelphia Revelation 3:7-13
+## 6. Philadelphia Revelation 3:7-13
 
 
-A massive flow 
+A massive flow of encouragement from the Lord. It's more important to be faithful, than the works we do.
+
+His support compensates for our weakness. It helps us where we lack.
+
