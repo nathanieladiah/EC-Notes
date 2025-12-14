@@ -45,4 +45,5 @@ His support compensates for our weakness. It helps us where we lack.
 Live in the confidence of _Divine Shielding_
 We have to walk through the chaos for this to activate.
 
-## 7
+## 7. Laodicea Revelation 3:14-21
+
