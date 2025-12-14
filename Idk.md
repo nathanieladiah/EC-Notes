@@ -42,3 +42,4 @@ A massive flow of encouragement from the Lord. It's more important to be faithfu
 
 His support compensates for our weakness. It helps us where we lack.
 
+Live on the
