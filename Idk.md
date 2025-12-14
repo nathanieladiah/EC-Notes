@@ -48,4 +48,5 @@ We have to walk through the chaos for this to activate.
 ## 7. Laodicea Revelation 3:14-21
 
 Renounce complacency.
+- Lack of a strong spiritual **pursuit** so there is little spiritual growth and development.
 
