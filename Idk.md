@@ -35,3 +35,4 @@ He was commended as one who pleased God.
 
 ---
 
+6. Revelation 3:7-13
