@@ -47,4 +47,5 @@ We have to walk through the chaos for this to activate.
 
 ## 7. Laodicea Revelation 3:14-21
 
-Renounce complacency
+Renounce complacency.
+
