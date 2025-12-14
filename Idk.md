@@ -15,6 +15,8 @@ Hebrews 11:5
 He was commended as one who pleased God.
 - Worthiness is achieved bg pleasing Gid by our _faith_ not works.
 
+## Recap
+
 1. Ephesus
     - patient endurance under pressure
     - ensure full-force heart engagement.
@@ -22,4 +24,14 @@ He was commended as one who pleased God.
     - abundant inner life amid affliction and poverty
     - no fear of the future
 3. Pergamum
-4
+    - immunity to the contamination of the surrounding context
+4. Thyatira
+    - journey of growth and increase
+    - deal with Jezebel 
+5. Sardis
+    - develop a commitment to completion
+    - powerful equalization in the body.
+
+
+---
+
