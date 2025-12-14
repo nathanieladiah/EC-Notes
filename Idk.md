@@ -42,4 +42,6 @@ A massive flow of encouragement from the Lord. It's more important to be faithfu
 
 His support compensates for our weakness. It helps us where we lack.
 
-Live on the
+Live in the confidence of _Divine Shielding_
+We have to walk through the chaos for this to activate.
+
