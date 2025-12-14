@@ -10,3 +10,4 @@ He got to take-off velocity, and Gid took him.
 
 Jude 1:14-15
 What he saw connected him to the Finishing movement.
+- 
