@@ -35,4 +35,7 @@ He was commended as one who pleased God.
 
 ---
 
-6. Revelation 3:7-13
+## 6 Philadelphia Revelation 3:7-13
+
+
+
