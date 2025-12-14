@@ -22,3 +22,4 @@ He was commended as one who pleased God.
     - abundant inner life amid affliction and poverty
     - no fear of the future
 3. Pergamum
+4
