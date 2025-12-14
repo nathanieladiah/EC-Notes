@@ -58,19 +58,13 @@ Relationships, Purity and Sight - these arw the things we should be investing in
 ## What does "Lift-off Velocity" look like?
 
 
-To THE ONE WHOIS
+TO THE ONE WHO IS
 VICTORIOUS...
 
 Revelation 2:7,11,17,26
 3:5,12, 21
 
-ElijahCentre
-
-"To the one who is victorious.
-
-•A series of promises to those who
+A series of promises to those who
 emerge in victory - the elevation into a
-new state of existence
-
-www.
+new state of existence.
 
