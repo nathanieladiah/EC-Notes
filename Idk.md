@@ -68,3 +68,5 @@ A series of promises to those who
 emerge in victory - the elevation into a
 new state of existence.
 
+1 Corinthians 15:57
+1 John 5:4
