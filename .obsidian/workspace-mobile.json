@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "60864e87c79fe543",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,6 +162,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "e0a14fe5a2a0fda1",
-  "lastOpenFiles": []
+  "active": "60864e87c79fe543",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
 }
