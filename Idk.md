@@ -45,3 +45,4 @@ His support compensates for our weakness. It helps us where we lack.
 Live in the confidence of _Divine Shielding_
 We have to walk through the chaos for this to activate.
 
+## 7
