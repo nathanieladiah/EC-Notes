@@ -10,4 +10,15 @@ He got to take-off velocity, and Gid took him.
 
 Jude 1:14-15
 What he saw connected him to the Finishing movement.
-- 
+
+Hebrews 11:5
+He was commended as one who pleased God.
+- Worthiness is achieved bg pleasing Gid by our _faith_ not works.
+
+1. Ephesus
+    - patient endurance under pressure
+    - ensure full-force heart engagement.
+2. Smyrna
+    - abundant inner life amid affliction and poverty
+    - no fear of the future
+3. Pergamum
