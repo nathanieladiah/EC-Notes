@@ -54,3 +54,4 @@ The only thing truly valuable is the life we get from the Lord.
 
 Relationships, Purity and Sight - these arw the things we should be investing into.
 
+---
