@@ -50,4 +50,5 @@ We have to walk through the chaos for this to activate.
 Renounce complacency.
 - Lack of a strong spiritual **pursuit** so there is little spiritual growth and development.
 
-The only th
+The only thing truly valuable is the life we get from the Lord.
+
