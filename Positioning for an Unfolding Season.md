@@ -5,4 +5,7 @@ Sunday 28th December 2025
 
 How to be personally and corporatley victorious in the season of darkness we find ourselves in.
 
+Amos:
+
+Called a lamentation - funeral song or word of death.
 
