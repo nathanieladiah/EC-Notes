@@ -19,4 +19,5 @@ Amos 5:6-13
 
 ---
 
-## Removal of all lingering Pharisee spirit.
+Removal of all lingering Pharisee spirit.
+
