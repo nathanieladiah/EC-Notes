@@ -14,4 +14,4 @@ The Upper Realm is singing a funeral song.
 Amos 5:2-4 - Against the false forms of the Church.
 
 
-Amos 5:16-23
+Amos 5:6-13
