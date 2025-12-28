@@ -17,3 +17,6 @@ Amos 5:2-4 - Against the false forms of the Church.
 Amos 5:6-13
 
 
+---
+
+## Removal of all lingering Pharisee spirit.
