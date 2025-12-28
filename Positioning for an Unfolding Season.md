@@ -8,4 +8,8 @@ How to be personally and corporatley victorious in the season of darkness we fin
 Amos:
 
 Called a lamentation - funeral song or word of death.
+The Upper Realm is singing a funeral song.
+
+
+Amos 5:2 - Against the false forms od the Church.
 
