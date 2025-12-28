@@ -21,3 +21,6 @@ Amos 5:6-13
 
 Removal of all lingering Pharisee spirit.
 
+Pursue a dimension of newness linked to acceleration. 
+
+
