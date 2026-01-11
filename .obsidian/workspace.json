@@ -11,10 +11,14 @@
             "id": "49463a442a9077e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -170,6 +174,8 @@
   "active": "49463a442a9077e5",
   "lastOpenFiles": [
     "Re-kindling the Fire.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
     "Untitled.md",
     "Positioning for an Unfolding Season.md",
     "Idk.md",
@@ -193,8 +199,6 @@
     "Faith - The Ultimate Tool from The Upper Realm.md",
     "Structural Preparation 2.md",
     "Structural Preparation.md",
-    "Issues of Being Willing.md",
-    "Perspectives on the Value of Trials.md",
     "14-07-24.md~"
   ]
 }
