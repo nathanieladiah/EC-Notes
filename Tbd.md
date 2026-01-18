@@ -14,3 +14,8 @@ We receive the instruction with faith.
 
 The Challenge: How do we walk through this while safeguarding our community cohesion.
 
+---
+The Experience of Israel - a community walking in the wilderness.
+
+- The entire journey was architected by God. - provided a level of faith to the people. 
+- All his instructions were designed to bring His people safely into tje Promised Land.
