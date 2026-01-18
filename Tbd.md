@@ -14,4 +14,3 @@ We receive the instruction with faith.
 
 The Challenge: How do we walk through this while safeguarding our community cohesion.
 
-
