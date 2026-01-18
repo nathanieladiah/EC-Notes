@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "Positioning for an Unfolding Season"
             }
+          },
+          {
+            "id": "b505508ae4ad76b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,10 +205,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "9290726644cdb4c2",
+  "active": "b505508ae4ad76b3",
   "lastOpenFiles": [
-    "Faith in the Season of the Finish.md",
     "Positioning for an Unfolding Season.md",
+    "Untitled 1.md",
+    "Re-kindling the Fire.md",
+    "Faith in the Season of the Finish.md",
     "A season of renewal.md",
     "Idk.md",
     "Untitled.md",
