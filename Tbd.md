@@ -5,4 +5,13 @@ Sunday 18th January 2026
 
 We are living in hostile times.
 
-> Thisbis the global context in which the positives kf the Kingdombof God have to prosper and thrive.
+> Thisbis the global context in which the positives of the Kingdombof God have to prosper and thrive.
+
+This cannot be done by one person, has to be a people. A generation walking in a state of community cohesion.
+
+We receive the instruction with faith.
+
+
+The Challenge: How do we walk through this while safeguarding our community cohesion.
+
+
