@@ -67,10 +67,14 @@
             "id": "b505508ae4ad76b3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Tbd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tbd"
             }
           }
         ],
@@ -207,6 +211,7 @@
   },
   "active": "b505508ae4ad76b3",
   "lastOpenFiles": [
+    "Tbd.md",
     "Positioning for an Unfolding Season.md",
     "Untitled 1.md",
     "Re-kindling the Fire.md",
