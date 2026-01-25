@@ -20,3 +20,6 @@ John 13:34-35
 
 No one is here by mistake...
 
+
+There is a purpose to your presence...
+
