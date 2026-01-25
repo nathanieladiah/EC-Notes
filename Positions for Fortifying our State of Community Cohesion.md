@@ -18,4 +18,5 @@ Ephesians 4:13
 
 John 13:34-35
 
-No one is here by
+No one is here by mistake...
+
