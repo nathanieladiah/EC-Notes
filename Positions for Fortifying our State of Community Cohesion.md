@@ -18,3 +18,4 @@ Ephesians 4:13
 
 John 13:34-35
 
+No
