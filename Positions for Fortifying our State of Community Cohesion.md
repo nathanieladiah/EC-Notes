@@ -9,4 +9,12 @@ Ephesians 3:10-11
 
 
 Hebrews 11:39-40
+Hebrews 12:1
+
+
+Tye value of community increases in our heart when we consider that the deepest desire within each of us cannot be attained without the participation of all of us.
+
+Ephesians 4:13
+
+John 13:34-35
 
