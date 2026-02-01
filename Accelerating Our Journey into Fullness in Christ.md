@@ -20,4 +20,3 @@ Renouncing folly
 
 - ill-discipline - poor structure/order in our lives (Proverbs 5:23)
 - being pretentious, fake or attention seeking (Proverbs 9:13)
-- 
