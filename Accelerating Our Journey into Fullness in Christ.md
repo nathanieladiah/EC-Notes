@@ -18,5 +18,6 @@ Wisdom gives us the ability to follow the grace through the fractured state of .
 
 Renouncing folly
 
-- ill-discipline
+- ill-discipline - poor structure/order in our lives (Proverbs 5:23)
+- being pretentious, fake or attention seeking (Proverbs 9:13)
 - 
