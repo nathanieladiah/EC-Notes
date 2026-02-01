@@ -11,4 +11,5 @@ The Harvest is a time of judgment. This time of harvest is ehen we see God's wis
 
 Another word for manifold would be variegated. 
 
-Made known - put o. 
+Made known - put on display, in front of all
+
