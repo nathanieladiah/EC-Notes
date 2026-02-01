@@ -9,4 +9,5 @@ Ephesians 3:10-19
 
 The Harvest is a time of judgment. This time of harvest is ehen we see God's wisdom displayed in the Church.
 
-Anither word fkr manifold would be variegated. 
+Anither word for manifold would be variegated. 
+
