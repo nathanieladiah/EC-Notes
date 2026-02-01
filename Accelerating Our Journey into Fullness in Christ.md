@@ -6,3 +6,5 @@ Sunday 1st February 2026
 Ephesians 3:10-19
 
 ## 1. Displaying the Manifold Wisdom of God
+
+The Harvest is a time of judgment. 
