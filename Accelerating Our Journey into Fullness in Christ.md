@@ -23,3 +23,6 @@ Renouncing folly
 
 
 Wisdom is not the default state for any of us 
+
+
+2
