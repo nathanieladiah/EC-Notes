@@ -13,3 +13,10 @@ Another word for manifold would be variegated.
 
 Made known - put on display, in front of all
 
+
+Wisdom gives us the ability to follow the grace through the fractured state of ...
+
+Renouncing folly
+
+- ill-discipline
+- 
