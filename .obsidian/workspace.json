@@ -46,9 +46,21 @@
               "icon": "lucide-file",
               "title": "Untitled 2"
             }
+          },
+          {
+            "id": "ceb9a87be96927e7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aae78c5f655280f2",
+  "active": "ceb9a87be96927e7",
   "lastOpenFiles": [
     "Untitled 2.md",
     "Tbd.md",
