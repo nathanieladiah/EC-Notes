@@ -24,3 +24,11 @@ We want to be a partner bringing the purpose of God into fruition.
 * One of the 3 allowed into deep sacred spiritual transactions
 	* Mark 5:37
 	* He did not disrupt the flow of the grace.
+* A "pillar" of the church
+
+---
+The foundations of his spiritual structure :
+* Authenticity: **1 John 1: 1-4**
+* Love: **1 John 2:8-11 / 4:7-21**
+
+### In order to "See"...
