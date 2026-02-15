@@ -4,63 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a0074f508035f88c",
+        "id": "f2ec5bf49b0a0ff6",
         "type": "tabs",
         "children": [
           {
-            "id": "49463a442a9077e5",
+            "id": "62130c171d0cc113",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "28861d41e33dc46b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "aae78c5f655280f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "ceb9a87be96927e7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "Untitled 3"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,14 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ceb9a87be96927e7",
+  "active": "62130c171d0cc113",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "Tbd.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
     "Positions for Fortifying our State of Community Cohesion.md",
     "Accelerating Our Journey into Fullness in Christ.md",
     "Re-kindling the Fire.md",
-    "Untitled 1.md",
     "Untitled.md",
     "Positioning for an Unfolding Season.md",
     "Idk.md",
@@ -237,7 +200,6 @@
     "Reviewing the Prophetic Faith.md",
     "Faith in the Character of God Part 2.md",
     "Separation and Judgment in a Season of Representation.md",
-    "Faith in the Character of God.md",
     "14-07-24.md~"
   ]
 }
