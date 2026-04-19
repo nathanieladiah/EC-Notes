@@ -10,3 +10,14 @@ A spirit of martyrdom. Don't back down from difficulty or persecution.
 
 Matthew 5:10-16
 
+
+---
+## Posture 7
+
+* We must not love, engage with or buy into the values and cultures of a |Babylonian world
+* Don't break Kingdom Standards in preference for a Babylonian Standard
+
+## Posture 8: Engage in Intense Preparation
+
+Revelation 19:6-9
+
