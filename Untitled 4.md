@@ -21,3 +21,4 @@ Matthew 5:10-16
 
 Revelation 19:6-9
 
+Don't let your sweat, human effort, come into contact with the work of God and thus contaminate what God has planned.
