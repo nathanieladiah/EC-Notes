@@ -18,3 +18,15 @@ Titus 2:11-13
 
 ---
 
+# UDR
+
+Our starting point is Sovereignty.
+
+Colossians 1:16
+
+> For by Him all things were created...
+
+our reality goes way beyond what we can see in the natural.
+
+Hebrews 1:14
+* Ministering spirits..
