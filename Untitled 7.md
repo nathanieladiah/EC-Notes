@@ -15,3 +15,6 @@ Titus 2:11-13
 * Embarking on a strong personal and corporate journey.
 * A **conviction** that there is vast life beyond the current mountain. 
 * 
+
+---
+
