@@ -30,3 +30,15 @@ our reality goes way beyond what we can see in the natural.
 
 Hebrews 1:14
 * Ministering spirits..
+
+The serpent:
+* Twists the meaning of what Gid has said
+* seduces man to 
+* remives the concept of consequences from the equation. Every sinfle action has consequence and Hod is watching.
+	* Galatians 6:7
+* activates the poison of pride
+* removes man from a clear perception of God to a blinding perception of self.
+
+
+_Tohu and bohu_
+
