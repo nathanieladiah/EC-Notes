@@ -1,5 +1,11 @@
 #ecms 
 
+| Service    | Description       | Username | Password             | IP Address                                                                                                         |
+| ---------- | ----------------- | -------- | -------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Watchguard | Firewall Software | nxadiah  | `wjfaw?5I%<Haq`      | [Public](https://181.118.38.11:8080/)<br>[MNGNET](https://192.168.130.5:8080)<br>[AVNET](https://172.30.50.1:8080) |
+| WIFI       |                   | MNGNET   | `D2'%BC-wqAw`        |                                                                                                                    |
+| WIFI       |                   | AVNET    | `Audio#VisualEC[\22` |                                                                                                                    |
+|            |                   |          |                      |                                                                                                                    |
 
 https://172.30.50.1:8080
 
