@@ -30,7 +30,20 @@ There is life from above that shapes and forms us. Salvation allows us to see th
 * **Transferred Kingdoms** - moved from the domain of darkness into the kingdom of light
 
 --- 
-* **Adoption as sons** - full legal sonship (Galations 4:5; Romans 8:15)
+* **Adoption as sons** - full legal sonship (Galatians 4:5; Romans 8:15)
 * **Reconciliation** - made peace with God (Romans 5:1-; 2 Corinthians 5: 18-19)
 * **Declared to be citizens of Heavens** - (Ephesians 2:19; Philippians)
 * **Declared Righteous** - (Romans 5:1; Romans 3:24)
+
+## Walking in the Power of Salvation
+
+Galatians 4:1
+The requirement is maturity.
+
+Ephesians 1:15-21
+Our eyes need to be opened to grasp the resource flowing to us from God.
+
+---
+
+## Salvation & Identity
+
