@@ -49,8 +49,7 @@
               "title": "The Power of Salvation Part 2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,10 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f147f29b7583cdb7",
+  "active": "0b24a00be48715e3",
   "lastOpenFiles": [
-    "The Power of Salvation.md",
     "The Power of Salvation Part 2.md",
+    "The Power of Salvation.md",
     "Logins.md",
     "Farid.md",
     "Untitled 3.md",

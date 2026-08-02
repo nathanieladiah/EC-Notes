@@ -20,3 +20,13 @@ There is no finishing in the earth without maturity. We need to recognize that t
 
 Revelation 19:7
 Isaiah 40:3-5
+
+Transformation is our mission.
+
+2 Corinthians 5:17
+* Shows us God the creator
+* A whole new creation - something not seen on the earth before.
+
+Genesis 1:1
+The same word that create d the world out of nothingness will create light out of the darkness of our lives.
+
