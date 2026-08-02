@@ -30,3 +30,28 @@ Transformation is our mission.
 Genesis 1:1
 The same word that create d the world out of nothingness will create light out of the darkness of our lives.
 
+## What is Power?
+
+
+Correct Action
+* Romans 6:17-18
+* Titus 2:11-12
+
+Consistency
+* Luke 9:23
+* Daniel 6:10
+
+Self-control
+* Proverbs 16:32
+
+ * Self doesn't have to be the driving factor of everything that we do.
+
+Choosing Others
+* Philippians 2:3
+* Galatians 5:13
+
+Kindness, compassion and taking care of one another
+* Ephesians 4:32
+* Colossians 3:12;
+* 1 Thessalonians 5:15
+
