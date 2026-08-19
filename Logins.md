@@ -51,3 +51,5 @@ DarkNight#2026
 
 File Server
 192.168.125.92
+
+net use G: \\
