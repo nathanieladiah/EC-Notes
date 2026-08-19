@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Power of Salvation Part 2.md",
+                "file": "Logins.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Power of Salvation Part 2"
+              "title": "Logins"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "f147f29b7583cdb7",
   "lastOpenFiles": [
-    "Logins.md",
     "The Power of Salvation Part 2.md",
+    "Logins.md",
     "The Power of Salvation.md",
     "Farid.md",
     "Untitled 3.md",

@@ -10,6 +10,8 @@
 | Dante Server  |                   | ABUser                        | `DarkNight#2026`     | 192.168.201.1244                                                                                                   |
 | File Server   |                   |                               |                      | 192.168.125.92                                                                                                     |
 | Server Access |                   | elijahcentre.internal\nxadiah | `Na+%!0R41`          |                                                                                                                    |
+| Proxmox       |                   |                               |                      | 192.168.130.46:8006                                                                                                |
+|               |                   | AVconsole*202                 |                      |                                                                                                                    |
 
 https://172.30.50.1:8080
 
