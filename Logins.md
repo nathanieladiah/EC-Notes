@@ -53,3 +53,5 @@ File Server
 192.168.125.92
 
 net use G: \\
+
+management server...130.132
