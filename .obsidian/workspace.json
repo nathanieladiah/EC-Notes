@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "79bb598b503bbb39",
@@ -140,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Primacy of Family and the Demand for Correct Priorities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,13 +198,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a17bedd460b6477",
+  "active": "7cb4a2f2b234777f",
   "lastOpenFiles": [
     "The Power of Salvation.md",
     "The Primacy of Family and the Demand for Correct Priorities.md",
