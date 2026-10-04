@@ -32,6 +32,32 @@ Covenant are about relationship whereas contract is about self-interest.
 
 
 
+---
+
+Sunday 4th October 2026
+
+# Part 2
+
+Psalm 68:5-6
+
+## The Formative Power of 'Family life'
+
+Structure and Boundaries
+
+A wrong response.
+
+Instinctively think about limitations, restriction, dos and don'ts
+
+
+Job 38 - A God of order.
+Structure and boundaries is an essential feature of  who God is.
+
+Proverbs 3:11-12
+
+we should think about why God has put the boundaries he has.
+
+psalm 23:4
+
 
 
 
