@@ -11,3 +11,11 @@ The word of God is the most precious resource we have.
 John 1:1-5
 Psalm 119:89-92
 
+The journey of the Church is about the unfolding of the word of God. It's about Sight.
+
+
+Revelation is for function.
+
+
+2 Peter 1:19-21
+
