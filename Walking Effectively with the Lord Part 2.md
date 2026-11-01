@@ -19,3 +19,9 @@ Revelation is for function.
 
 2 Peter 1:19-21
 
+Studying the Word
+
+- Vary the study focus and i tensity
+- Have a personal study plan but also track the current corporate emphasis
+- utilize various tools
+- Be consistent
