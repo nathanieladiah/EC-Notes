@@ -17,3 +17,6 @@ Through the power of representation, one man can open a door for multitudes
 David unlocked a new dimension of Worship
 1 Chronicles 25:1, 6-7
 Expansion out from David.
+
+
+Acts 10-11:18
