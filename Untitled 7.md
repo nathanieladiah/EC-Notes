@@ -21,4 +21,8 @@ Expansion out from David.
 
 Acts 10-11:18
 
+There is a great responsibility on the many, us, to embody the anointing brought to us. This is our primary life mission.
+
+# The Core Mission of Elijah Centre
+
 
