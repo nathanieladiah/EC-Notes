@@ -49,8 +49,7 @@
               "title": "Untitled 7"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f908dcb41554d18",
+  "active": "0b24a00be48715e3",
   "lastOpenFiles": [
-    "Graham King.md",
     "Untitled 7.md",
+    "Graham King.md",
     "Walking Effectively with the Lord Part 2.md",
     "Logins.md",
     "Tracking Community Foundations Review.md",
