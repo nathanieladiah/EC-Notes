@@ -21,3 +21,9 @@ Renewal is not just forgetting, it's strong affirmations of embedded values from
 it is defining new starting points for future thrusts. 
 
 it means we are not being jaded, but entering a tome of celebration filled with hope.
+
+
+## Foundation Positions
+### The Primacy of Exalting the Lord
+
+This is a significant reality of EC. Majestic grandeur and exaltation of the lord.
