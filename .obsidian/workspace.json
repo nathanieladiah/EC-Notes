@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "99f2ac63f038e743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Musings in a season of renewal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Musings in a season of renewal"
+            }
+          },
+          {
             "id": "230a9f66f625291c",
             "type": "leaf",
             "state": {
@@ -49,7 +63,8 @@
               "title": "Untitled 7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,12 +218,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b24a00be48715e3",
+  "active": "99f2ac63f038e743",
   "lastOpenFiles": [
+    "Logins.md",
+    "Musings in a season of renewal.md",
     "Untitled 7.md",
     "Graham King.md",
     "Walking Effectively with the Lord Part 2.md",
-    "Logins.md",
     "Tracking Community Foundations Review.md",
     "The Primacy of Family and the Demand for Correct Priorities.md",
     "The Power of Salvation.md",
@@ -231,7 +247,6 @@
     "Untitled 1.md",
     "Positions for Fortifying our State of Community Cohesion.md",
     "Accelerating Our Journey into Fullness in Christ.md",
-    "Re-kindling the Fire.md",
     "14-07-24.md~"
   ]
 }
