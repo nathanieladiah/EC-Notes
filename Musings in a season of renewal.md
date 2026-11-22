@@ -16,3 +16,8 @@ Final taking hold of a completely Authentic life - no Pharisee positions.
 Pursuit of a dimension of Newness that is filled with greater acceleration forward in the Lord. 
 Amos 9:13
 
+Renewal is not just forgetting, it's strong affirmations of embedded values from the past that are renewed in power in the present. 
+
+it is defining new starting points for future thrusts. 
+
+it means we are not being jaded, but entering a tome of celebration filled with hope.
