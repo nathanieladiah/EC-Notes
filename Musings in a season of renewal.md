@@ -27,3 +27,6 @@ it means we are not being jaded, but entering a tome of celebration filled with 
 ### The Primacy of Exalting the Lord
 
 This is a significant reality of EC. Majestic grandeur and exaltation of the lord.
+
+
+### Direct Delivery through a Spiritual Experience
